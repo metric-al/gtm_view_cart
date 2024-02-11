@@ -1,5 +1,7 @@
 homepage: "https://metric.al/"
 documentation: "https://github.com/metric-al/gtm_metrical_library#readme"
 versions:
+  - sha: f245cc5f4a77a2e4fdbdce58b68a08a0a1efd000
+    changeNotes: Add cart to payload
   - sha: d5afecd599af3ed1364918cf22a57143e3ecb83b
     changeNotes: Initial release.
